@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_hooks/flutter_hooks.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
 
-import 'coffee.dart';
+import 'coffee_challenge/model/coffee.dart';
 
 class TestPageView extends HookConsumerWidget {
   const TestPageView({

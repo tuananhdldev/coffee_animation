@@ -1,4 +1,4 @@
-import 'package:coffee_animation/coffee.dart';
+import 'package:coffee_animation/coffee_challenge/model/coffee.dart';
 import 'package:flutter/material.dart';
 
 const _duration = Duration(milliseconds: 500);
